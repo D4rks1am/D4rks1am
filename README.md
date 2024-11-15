@@ -3,4 +3,6 @@
 - 👋 Hi, I’m @Siam Dewan
 - 👀 I’m interested in penetration testing & Bug Bounty HuntHurting 
 - 🌱 I’m currently learning Computer Science and Engineering & Cyber Security Methods
-- 
+
+🌐 Socials:
+Facebook Instagram YouTube
